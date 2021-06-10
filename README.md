@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SouvikGiri
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Group projects.
 - 🌱 I’m currently learning ...Game Devlopment and Concepts of Deep Learning too
 - 📫 How to reach me www.linkedin.com/in/souvikgiri
 
