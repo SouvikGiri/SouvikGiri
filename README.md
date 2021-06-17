@@ -1,12 +1,10 @@
-# Hi Fellow Coders <img src="https://github.com/SouvikGiri/SouvikGiri/blob/main/" width="29" height="auto"/>
+# Hi Fellow Coders <img src="https://github.com/SouvikGiri/SouvikGiriy/blob/main/Hi.gif" width="29" height="auto" />
 <p>
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="auto" height="300"/>
-<img src="https://github.com/SouvikGiri/SouvikGiriy/blob/main/life_balance.gif" alt="side Image" align="right" width="auto" height="300" />
 </p>
 <hr>
+<p>
 </p>
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
-<br>
 <hr>
  <h1 align = "center">💻 Programming Languages:</h1>
 <p align ="Center">
@@ -23,7 +21,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
     <img src="https://github-readme-stats.vercel.app/api?username=SouvikGiri&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
   <a href="https://github.com/SouvikGiri/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarjeetray&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouvikGiri&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
   </a>
   <br>
 </p>
